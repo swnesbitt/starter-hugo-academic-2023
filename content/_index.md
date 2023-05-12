@@ -36,7 +36,7 @@ sections:
       email: snesbitt@illinois.edu
       phone: +1 217 390 9086
       address:
-        street: 1301 W Green St, NHB 3060
+        street: Department of Atmospheric Sciences, 1301 W Green St, 3060 Natural History Building, M/C 104
         city: Urbana
         region: IL
         postcode: '61821'
@@ -45,7 +45,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Follow me @70_dbz
           link: 'https://twitter.com/70_dbz'
       # Automatically link email and phone or display as text?
       autolink: true
