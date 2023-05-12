@@ -16,7 +16,7 @@ header:
   image: "book.jpg"
 ---
 
-{{< figure library="true" src="book.jpg" >}}
+{{< figure library="true" src="media/book.jpg" >}}
 
 A comprehensive introduction to the current technology and application of radar in meteorology and atmospheric sciences
 
