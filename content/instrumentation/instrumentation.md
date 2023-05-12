@@ -20,14 +20,14 @@ The Department of Atmospheric Sciences has the following platforms available for
 
 This system includes
 
-- Radiometrics 915 MHz wind profiling radar
+- Radiometrics deployable 915 MHz wind profiling radar
 - MRR-2 K-Band vertically pointing radar
 - Parsivel-2 disdrometer
 - 2 iMet radiosonde systems
 - Meteorological Particle Spectrometer
 - Geonor weighing rain gauge
 - Surface weather station
-- Aerosol spectrometer
+- TSI Aerosol spectrometer
 
 The Illinois State Water Survey (affiliate Faculty in the department) also operates:
 
