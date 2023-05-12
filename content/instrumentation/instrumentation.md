@@ -34,12 +34,15 @@ The Illinois State Water Survey (affiliate Faculty in the department) also opera
 - Raman lidar
 - Scanning Doppler lidar
 
-**[Doppler on Wheels (DOW) Facility](http://dowfacility.atmos.illinois.edu)**
+**[Flexible Arrays of Radars and Mesonets (FARM) Facility](https://farm.atmos.illinois.edu)**
 
-In 2020, the DOW Facility joined the Department of Atmospheric Sciences at the University of Illinois.  This facility operates
+In 2020, the FARM Facility joined the Department of Atmospheric Sciences at the University of Illinois.  This facility operates
 
-- 3 mobile X-Band Doppler radars, 2 dual-polarization, 1 rapid scan (DOW6, DOW7, DOW8)
+National Science Foundation Community Instrument Facility:
+- 3 mobile X-Band Doppler radars, 2 dual-polarization, 1 rapid scan (DOW6, DOW7, DOW8), 
 - 1 deployable C-Band dual-polarization radar (COW)
+
+The FARM also operates:
 - 3 mobile mesonet trucks
 - 6 Graw sounding systems
 - PODs and PoleNet surface observing systems, with Parsivel disdrometers and cameras

@@ -36,5 +36,6 @@ headless: false
 1. NSF [RELAMPAGO](https://relampago-cacti.org) (2018-19, Córdoba and Mendoza provinces, Argentina), Principal investigator
 1. NASA CAMPEx (2019, Phillipines), Mission scientist
 1. DOE-NASA TRACER (2021, Houston, TX), Radar scientist
-1. NOAA Observations: Lake Effect Snow Microphysics (2022-2023, Buffalo, NY), Co-Principal Investigator
+1. NOAA Observations: Lake Effect Snow Microphysics (2022-2024, Buffalo, NY), Co-Principal Investigator
 1. NSF PERiLS (2022-2023, Southeast USA), Co-Principal Investigator
+1. DOE CROCUS (2024-2027), Co-Principal Investigator
